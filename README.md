@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-Wy7dGIA9pt](https://www.frontendmentor.io/solutions/blog-preview-card-Wy7dGIA9pt)
 - Live Site URL: [https://onlycross12.github.io/Frontend-Mentor-Blog-preview-card/]([https://your-live-site-url.com](https://onlycross12.github.io/Frontend-Mentor-Blog-preview-card/))
 
 ## My process
